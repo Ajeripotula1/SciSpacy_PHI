@@ -1,0 +1,39 @@
+
+Patient Account Number: A12345B678
+Patient Admission Date: 10/12/2023
+Patient Discharge Date: 10/14/2023
+Patient Medical Record Number: MRN12345678
+Patient Health Plan Beneficiary Number: HPBN98765432
+
+Diagnosis: Hypertension, Type 2 Diabetes
+Treatment Plan: Prescribed antihypertensive medication, lifestyle changes, insulin therapy
+
+Billing Information:
+
+1. Office Visit - $200.00
+2. Blood Tests - $150.00
+3. MRI Scan - $450.00
+4. Medication - $100.00
+Total: $900.00
+
+
+MRI Scan Results:
+MRI shows mild lumbar disc bulge at L4-L5 with no signs of nerve impingement.
+
+Blood Test Results:
+Blood glucose level: 145 mg/dL, Cholesterol: 220 mg/dL, Hemoglobin A1c: 7.2%
+
+Prescribed Dosage Information:
+100 mg of Metformin twice daily, 5 mg of Lisinopril once daily
+
+Prescribed Medications:
+Metformin, Lisinopril, Aspirin
+
+Pre-existing Condition Information:
+Chronic Hypertension, Type 2 Diabetes
+
+Mental Health Information:
+Patient reports feeling anxious and stressed due to recent family health issues.
+
+Immunization Records:
+Influenza vaccine: 10/05/2023, COVID-19 booster: 11/01/2023

@@ -1,0 +1,40 @@
+Patient Name: John Doe  
+Age: 54  
+Date of Visit: 2024-11-26  
+
+**Diagnosis:**  
+Mr. John Doe was diagnosed with Type 2 Diabetes and Hypertension. Additionally, he showed early signs of chronic kidney disease based on lab results.
+
+**Treatment Plan:**  
+The patient is advised to follow a low-sodium, low-carb diet, exercise daily, and monitor blood sugar levels twice a day. A follow-up visit is scheduled in three months.  
+
+**Billing Information:**  
+- Initial consultation: $150  
+- Blood tests: $200  
+- MRI scan: $800  
+**Total Bill:** $1,150  
+
+**MRI Results:**  
+MRI scans showed minor ischemic changes in the brain indicative of age-related conditions. No evidence of acute stroke.  
+
+**Blood Test Results:**  
+- Fasting glucose: 140 mg/dL (high)  
+- HbA1c: 7.8% (high)  
+- Serum creatinine: 1.4 mg/dL (high)  
+
+**Prescribed Dosage Information:**  
+- Metformin 500 mg, twice a day  
+- Losartan 50 mg, once a day  
+
+**Medications Prescribed:**  
+- Metformin  
+- Losartan  
+
+**Pre-existing Conditions:**  
+The patient has a history of hyperlipidemia and mild anxiety disorder.  
+
+**Mental Health Notes:**  
+The patient reported feeling “overwhelmed” due to caregiving responsibilities for his spouse. Referred to counseling services for stress management.  
+
+**Immunization Records:**  
+The patient is up to date with flu and COVID-19 vaccines. Needs a shingles vaccine at the next visit.
